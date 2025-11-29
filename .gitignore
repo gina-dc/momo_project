@@ -1,0 +1,73 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter notebooks (uncomment to track notebooks)
+# *.ipynb
+
+# VS Code
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# Logs and local envs
+*.log
+.env.local
+.env.*
+
+# Data files (ignore large datasets; remove if you want to track small CSVs)
+*.csv
+data/
+
+# Model artifacts
+models/
+*.pkl
+*.joblib
+
+# Temporary files
+*.tmp
+*.swp
+
+# Coverage
+htmlcov/
+.coverage
+
+# OS generated files
+Thumbs.db
+
+# End of file
